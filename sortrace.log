@@ -1,0 +1,23 @@
+Generating 1000000 random numbers
+arg_v[0] = ./generate
+arg_v[1] = 1000000
+arg_v[2] = -100000
+arg_v[3] = 100000
+Starting system sort
+
+real	0m0.414s
+user	0m1.019s
+sys	0m0.249s
+Starting mySort
+Thread 0 returns: 0
+Thread 1 returns: 0
+Thread 2 returns: 0
+Thread 3 returns: 0
+Thread 4 returns: 0
+Thread 5 returns: 0
+Thread 6 returns: 0
+Thread 7 returns: 0
+
+real	1m9.201s
+user	8m55.649s
+sys	0m1.450s
